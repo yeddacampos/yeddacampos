@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-Eu sou a Yedda, estudante de Programação Back-End.
+Eu sou a Yedda, estudante de Tecnologias emergentes como Machine Learn para IA e Tecnologias Quânticas.
 <br>
 
 Atualmente estou realizando um bootcamp de Python e Machine Learn pela DIO.
