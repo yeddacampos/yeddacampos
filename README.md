@@ -6,8 +6,10 @@ Eu sou a Yedda, graduanda em Análise e Desenvolvimento de Sistemas e Ciência e
 Atualmente estou aprendendo React, e React Native.
 
 <br> <br> 
- <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=50&id=zzhjW2dkRmjW&format=png&color=000000" />
+ <img src="![image](https://github.com/user-attachments/assets/9ef75959-4c68-4ad7-9609-5099cf08e4b8)
+"/>
+<img src="![image](https://github.com/user-attachments/assets/ef43893a-749a-4704-a7c1-f3c1725e0f9e)
+" />
  
  <br><br>
  <strong>Minhas redes sociais:</strong>
