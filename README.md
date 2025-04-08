@@ -1,9 +1,9 @@
   ### Hi there 👋
 
-Eu sou a Yedda, estudante de Tecnologias emergentes como Machine Learn para IA e Tecnologias Quânticas.
+Eu sou a Yedda, graduanda em Análise e Desenvolvimento de Sistemas e Ciência e Tecnologia.
 <br>
 
-Atualmente estou realizando um bootcamp de Python e Machine Learn pela DIO.
+Atualmente estou aprendendo React, e React Native.
 
 <br> <br> 
  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
